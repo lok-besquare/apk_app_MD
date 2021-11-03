@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.example.apk_app">
    <application
-        android:label="apk_app"
+        android:label="Besquare"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
